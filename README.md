@@ -1,1 +1,1 @@
-# TowerChallenge
+This is a recreation of a little html physics game called Tower Challenge. It uses free assets from opengameart.org, and I just recreated the base game in C/C++ with Box2D to show off my Sprite, Font and Audio code. This isn't a complete game at this time. 
